@@ -7,7 +7,7 @@
 ### Deploy to Heroku 🏃‍♂
 
 The easiest way to deploy this Song Bot  <br><br>
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Song-downloader)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanrandila1/Song-downloader)
 
 
 Developer https://t.me/dihanrandila
