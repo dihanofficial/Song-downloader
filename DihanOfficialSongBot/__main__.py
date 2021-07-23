@@ -4,7 +4,7 @@ from pyrogram.types.bots_and_keyboards import reply_keyboard_markup
 from DihanOfficialSongBot.plugins import *
 from pyrogram import idle, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-from DihanOfficialSongBot import DihanSongBot as app
+from DihanOfficialSongBot import DihanOfficialSongBot as app
 from DihanOfficialSongBot import LOGGER
 
 pm_start_text = """
